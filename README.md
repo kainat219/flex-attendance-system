@@ -121,4 +121,4 @@ This system was built and tested at FAST-NUCES Lahore. It works on any device th
 
 **Kainat Afzal**
 BS Software Engineering — FAST-NUCES Lahore
-[LinkedIn](https://linkedin.com/in/kainat-afzal) | [GitHub](https://github.com/kainat219)
+[LinkedIn](https://linkedin.com/in/kainat-afzal-) | [GitHub](https://github.com/kainat219)
